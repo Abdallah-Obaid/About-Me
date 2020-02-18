@@ -7,7 +7,7 @@ alert("Okay, lets go");
   while (Name === "") {
   alert('Please type a name in the field!')
   var Name = prompt("Type in your name");
-  } 
+} 
 
 alert('Hello ' + Name);
 alert('Now just answer with yes or no okey  '+Name+'?');
