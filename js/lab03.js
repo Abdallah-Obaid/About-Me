@@ -133,7 +133,7 @@ for(var k =0 ; k < 6;k++){
       n=hobby.length
       alert1= 'congratulation '+ Name + ' you made it :)'
       rank=rank+1 
-      break
+     // break  //no need for "break"
     }
     else
     {
