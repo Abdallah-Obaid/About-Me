@@ -23,9 +23,9 @@ main ul li{
 }
 
 nav ul li a{
-    color: rgb(94, 223, 68);
-    text-decoration: none ;        /* to remove any text decoration 
-*/
+    color: rgb(255, 0, 0);
+    text-decoration: none ;
+    font-size: 20px;   
 }
 nav ul li a:hover{
 color: rgb(170, 238, 255);
@@ -96,7 +96,7 @@ border-radius: 40px 0 40px 0;
 padding-top: 20px;    
 padding-left: 20px;
 padding-bottom: 10px;
-background-color: #b9fffb ;
+background-color: #cefaf8 ;
 border-radius: 40px 0 40px 0;
 }
 @import url(https://fonts.googleapis.com/css?family=Varela+Round);
